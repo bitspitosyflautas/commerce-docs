@@ -21,7 +21,7 @@ In the previous section, we looked at how to customize product pages using the *
 
 ### Configuring the Add to cart form fields
 
-The *Add to cart form* is implemented as a variant of the Order item content entity form.
+The *Add to cart form* is implemented as a custom Display mode of the Order item content entity form.
 
 > If you do not know which Order item type is used for your Product type, you can identify it by following these steps:
 1. Navigate to the Product types listing at `/admin/commerce/config/product-types`
